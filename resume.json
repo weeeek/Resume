@@ -1,0 +1,57 @@
+﻿{
+    "name-zh": "万康",
+    "name-en": "week wan",
+    "Origo": "湖北·武汉",
+    "email": "407351071@qq.com",
+    "qq": "407351071",
+    "mobile": "13296611721",
+    "birth": "1993",
+    "birthday": "07-08",
+    "college-zh": "武汉软件工程职业学院",
+    "college-en": "WuHan Vocational College of Software and Engineering",
+    "workExp": [
+        {
+            "from": "2013-11-11",
+            "to": "2014-11-25",
+            "company-zh": "上海微创软件股份有限公司",
+            "company-en": "Wicresoft",
+            "as-zh": "软件工程师",
+            "as-en": "Software Engineer",
+            "describe-zh": "",
+            "describe-en": ""
+        },
+        {
+            "from": "2014-11-25",
+            "to": "2017-11-25",
+            "company-zh": "上海教享科技有限公司",
+            "company-en": "Eco-Edu",
+            "as-zh": "研发工程师",
+            "as-en": "Develop Engineer",
+            "describe-zh": "",
+            "describe-en": ""
+        }
+    ],
+    "skill": [
+        {
+            "name": "Asp.NET MVC",
+            "Proficiency": 4
+        },
+        {
+            "name": "Sql",
+            "Proficiency": 4
+        },
+        {
+            "name": "Html",
+            "Proficiency": 4
+        },
+        {
+            "name": "Css",
+            "Proficiency": 4
+        },
+        {
+            "name": "Javascript",
+            "Proficiency": 4
+        }
+    ]
+}
+//Develop
